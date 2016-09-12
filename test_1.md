@@ -2,3 +2,7 @@ Quesion 1（经济与文化全球化的利弊）：Some people think the increas
 
 Point: 经济、贸易和文化的全球化都是一把双刃剑，正反双方的论据需要准备好
 
+
+
+Question 2（ 国际合作）
+
