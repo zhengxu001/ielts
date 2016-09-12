@@ -8,7 +8,7 @@
 * Some people believe that time spent on television, video and computer games can be valuable for children. Others believe this has negative effects on a child. Discuss both views and give your own opinion. \(080110\)
 * （ 提示：这道题目入选母题是因为它结合了，非常值得一练。）Some people think that the government should establish free libraries in each town. Others believe that it is a waste of money since people can access the Internet at home to obtain information. Discuss both sides and give your own opinion. \(120112\)
 
-\#\#Question 2（媒体）
+#### Question 2（媒体）
 
 * News media is more influential nowadays. Some people think it is a negative development. To what extent do you agree or disagree? \(090822\)
 * Nowadays, films and computer games containing violence are popular. Some people think those films and games have negative effects on society and should be banned,while others think they are just harmless relaxation. Discuss both views and give your opinion.\(111029\)
