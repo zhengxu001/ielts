@@ -7,7 +7,7 @@
     * [Government](government.md)
     * [Environment](environment.md)
     * Crime
-    * Animals
+    * [Animals](animals.md)
     * Language and Culture
     * Technology and Media
     * Women, Kids and Familis
