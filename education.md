@@ -9,7 +9,7 @@
 
 * Point: 教育的功能, 教育的意义
 
-\#\#Question 2\(教学方式\)
+#### Question 2\(教学方式\)
 
 * （科目选择）Some people think that the government should decide which subjects students should study at the university, while others think that students should be allowed to apply for the subject they prefer. Discuss the two views and give your opinion. \(060916\)
 * （远程教育）Many people use distance-learning programmes \(study material post, TV, Internet, etc.\) to study at home, but some people think that it cannot bring the benefit as much as attending college or university. To what extent do you agree or disagree with this opinion?
