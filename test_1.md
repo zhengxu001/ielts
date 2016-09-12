@@ -1,3 +1,3 @@
-# Globalisation
+# Globalization
 
 HELLO
