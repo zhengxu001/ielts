@@ -13,6 +13,9 @@
 * News media is more influential nowadays. Some people think it is a negative development. To what extent do you agree or disagree? \(090822\)
 * Nowadays, films and computer games containing violence are popular. Some people think those films and games have negative effects on society and should be banned,while others think they are just harmless relaxation. Discuss both views and give your opinion.\(111029\)
 
+* We are surrounded by all kinds of advertising, which significantly influence our lives. Do the positive effects of advertising outweigh its negative effects? \(041016, 110625\)
+
+
 * 
 
 \#\#Question 3（总结以下问题思路）
