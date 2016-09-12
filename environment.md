@@ -1,5 +1,8 @@
 \#\#Question 1（环境的重要性）
 
+* （食品安全）Some people support the developments in agriculture such as factory farming andcreations of new types of fruits and vegetables, while others oppose this view. Discuss both views and give your opinion. \(080712\)
+
+
 \#\#Question 2（如何保护环境）
 
 * （多国合作）Environmental problem is too big for individual countries and individual people to address. In other words, we have reached the stage where the only way to protect the environment is at an international level. To what extent do you agree or disagree with this opinion? \(040228, 040515, 110507\)
