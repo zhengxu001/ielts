@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [Writting](chapter1.md)
-    * [Globalization](test_1.md)
+* [Writting](writing.md)
+    * [Globalization](globalization.md)
     * [Education](education.md)
     * [Government](government.md)
     * [Environment](environment.md)
@@ -12,5 +12,5 @@
     * [Technology and Media](technology-and-media.md)
     * [Women, Kids and Familis](women-kids-and-familis.md)
     * [Tourism](tourism.md)
-* [Speaking](second_chapter.md)
+* [Speaking](speaking.md)
 
