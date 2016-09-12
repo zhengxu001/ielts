@@ -15,10 +15,7 @@
 
 * We are surrounded by all kinds of advertising, which significantly influence our lives. Do the positive effects of advertising outweigh its negative effects? \(041016, 110625\)
 
-
-* 
-
-\#\#Question 3（总结以下问题思路）
+  \#\#Question 3（总结以下问题思路）
 
 * 提示：对于拉大贫富差距这个话题，可以网上搜索一下digital divide这个关键词。
 
