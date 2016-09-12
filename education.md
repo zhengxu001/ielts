@@ -9,6 +9,8 @@
 
 * Point: 教育的功能, 教育的意义
 
-
 \#\#Question 2\(教学方式\)
+
+* （科目选择）Some people think that the government should decide which subjects students should study at the university, while others think that students should be allowed to apply for the subject they prefer. Discuss the two views and give your opinion. \(060916\)
+
 
