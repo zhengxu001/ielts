@@ -9,7 +9,7 @@
     * Crime
     * [Animals](animals.md)
     * Language and Culture
-    * Technology and Media
+    * [Technology and Media](technology-and-media.md)
     * Women, Kids and Familis
     * Tourism
 * [Speaking](second_chapter.md)
