@@ -4,5 +4,9 @@
 
 * \(该不该参加社会实践\)Some school leavers travel or work for a period of time instead of going directly to university. What are the advantages and disadvantages?
 
+* Some people say that children should obey the rules of their parents and teachers, while other people think children will not be well-prepared for their adult life if they are given too much control. Discuss in both sides and give your opinion.
+
+
 * Point: 教育的功能, 教育的意义
+
 
