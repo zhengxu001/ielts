@@ -13,5 +13,6 @@
 
 * （科目选择）Some people think that the government should decide which subjects students should study at the university, while others think that students should be allowed to apply for the subject they prefer. Discuss the two views and give your opinion. \(060916\)
 * （远程教育）Many people use distance-learning programmes \(study material post, TV, Internet, etc.\) to study at home, but some people think that it cannot bring the benefit as much as attending college or university. To what extent do you agree or disagree with this opinion?
+* （学费）Some people believe that university students should pay all the cost of studies because university education only benefit the students themselves not the society as a whole. To what extent do you agree or disagree?
 
 
