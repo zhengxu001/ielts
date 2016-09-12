@@ -1,4 +1,0 @@
-# Speaking
-
-This is speaking
-
