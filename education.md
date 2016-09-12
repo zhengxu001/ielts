@@ -4,4 +4,5 @@
 
 * \(该不该参加社会实践\)Some school leavers travel or work for a period of time instead of going directly to university. What are the advantages and disadvantages?
 
+* Point: 教育的功能, 教育的意义
 
