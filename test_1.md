@@ -8,5 +8,5 @@
 \#\#Question 2（ 国际合作）
 
 * Rich countries often give financial aid to poor countries, but it does not solve the poverty, so rich countries should give other types of help to the poor countries rather thanfinancial aid. To what extent do you agree or disagree?
-
+* Point：“授人以鱼”和“授人以渔”，如何选择?
 
