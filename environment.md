@@ -9,4 +9,7 @@
 * Fossil fuels, such as coal, oil, natural gas, are used in many countries. But in some countries, the use of alternative sources of energy, including wind and solar power, are encouraged. Is this trend a positive or a negative development? \(090530\)
 * （关于环境的辩论题）One long-distance flight consumes fuel which a car uses in several years’ time, but they cause the same amount of pollution. So some people think that we should discourage non-essential flights, such as tourist travel, rather than to limit the use of cars. To what extent do you agree or disagree? \(060325, 080405\)
 
+\#\#Question3：保护动物的意义
+
+* Now many people think that we are spending too much money and time on protecting wild animals. The money should be better spent on human population. Do you agree or disagree?
 
