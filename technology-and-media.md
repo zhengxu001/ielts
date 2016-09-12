@@ -10,10 +10,13 @@
 
 \#\#Question 2（媒体）
 
+* News media is more influential nowadays. Some people think it is a negative development. To what extent do you agree or disagree? \(090822\)
+
 
 \#\#Question 3（总结以下问题思路）
 
 * 提示：对于拉大贫富差距这个话题，可以网上搜索一下digital divide这个关键词。
 
 * 题目：飞机旅行只对富人有好处吗?现代科技使人们失去创造力吗?科技发展造成负面影响了吗?科技发展是否拉大了贫富差距?早起的科技是否比现在的科技影响更大?科技改变了人们之间的关系了吗?科技造成环境污染\/使我们的生活变得更加复杂，我们是否要告别科技，过简单的生活?
+
 
