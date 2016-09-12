@@ -6,11 +6,11 @@
     * [Education](education.md)
     * [Government](government.md)
     * [Environment](environment.md)
-    * Crime
+    * [Crime](crime.md)
     * [Animals](animals.md)
-    * Language and Culture
+    * [Language and Culture](language-and-culture.md)
     * [Technology and Media](technology-and-media.md)
-    * Women, Kids and Familis
-    * Tourism
+    * [Women, Kids and Familis](women-kids-and-familis.md)
+    * [Tourism](tourism.md)
 * [Speaking](second_chapter.md)
 
