@@ -6,7 +6,7 @@ Over the past few decades, more and more countries have opened up the markets, i
 
 Supporters of globalization argue that strong economic ties between countries have a positive effect on economnic growth. Economies in developing countries will benefit from globalization, because some underdeveloped countries lack capital, technology and infrastructure. International trade provides these countries with opportunities to export goods and services to high-income countries and earn foreign exchange, which can drive economic growth and improve citizens’ living standards.
 
-On the other hand, Critics take a different view,. Many people tend to adopt western habits because advertisements and movies from western countries have conquered the screen and they regard these habits as fashionable. They choose to eat fast food and celebrate western festivals such as Christmas, and this means that some of their own traditions and norms may disappear.
+On the other hand, Critics take a different view. Many people tend to adopt western habits because advertisements and movies from western countries have conquered the screen and they regard these habits as fashionable. They choose to eat fast food and celebrate western festivals such as Christmas, and this means that some of their own traditions and norms may disappear.
 
 In my opinion, globalisation may encourage people to preserve their cultures. The expansion of some industries including tourism has made it possible for these people to realise the distinctive characteristics of their cultures. The growing popularity of their cultures, heritage sites and works of art can instill a sense of pride in these communities and this is why residents can make a conscious effort to protect their cultures.
 
