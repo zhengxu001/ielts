@@ -10,5 +10,3 @@ Admittedly, the cross-national interaction will also impose a negative influence
 
 In my opinion, globalization can help develop the economic and we can also have a better understanding of other contries. But we also may encourage people to preserve their cultures. The expansion of some industries including tourism has made it possible for these people to realise the distinctive characteristics of their cultures. The growing popularity of their cultures, heritage sites and works of art can instill a sense of pride in these communities and this is why residents can make a conscious effort to protect their cultures.
 
-In conclusion, globalization can help develop the economic and we can also have a better understanding of other contries. But we also may encourage people to preserve their cultures.
-
