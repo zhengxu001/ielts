@@ -1,6 +1,6 @@
 # My Awesome Book
 
-This is a book about IELTS.
+This is a book about IELTS :\)
 
 ### 9月12号--9月18号：
 
