@@ -4,3 +4,5 @@
 
 
 
+Over the past few decades, more and more countries have opened up the markets, increasingly transforming the world economy into one free-flowing global market. The question is：Is economic globalization good for all?
+
