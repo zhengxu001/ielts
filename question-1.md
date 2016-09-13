@@ -10,5 +10,5 @@ Admittedly, the cross-national interaction will also impose a negative influence
 
 In my opinion, globalisation may encourage people to preserve their cultures. The expansion of some industries including tourism has made it possible for these people to realise the distinctive characteristics of their cultures. The growing popularity of their cultures, heritage sites and works of art can instill a sense of pride in these communities and this is why residents can make a conscious effort to protect their cultures.
 
-In conclusion, as countries are interconnected, some disadvantaged areas can expect economic growth and people who live in these areas will also pay attention to their heritage.
+In conclusion, as countries are interconnected, only to the weak countries, the local government should take steps to protect their vulnerable cultures.some disadvantaged areas can expect economic growth and people who live in these areas will also pay attention to their heritage.
 
