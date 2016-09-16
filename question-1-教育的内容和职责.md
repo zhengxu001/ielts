@@ -1,4 +1,4 @@
-&gt;&gt;It is generally believed that education is of vital importance to the development of individuals and the well-being of societies. What should education consist of to fulfil both these functions?
+&gt;&gt; It is generally believed that education is of vital importance to the development of individuals and the well-being of societies. What should education consist of to fulfil both these functions?
 
 Education is one of the largest items of government spending. It is regarded as the pathway to economic prosperity, an instrument for combating unemployment and the driving force behind scientific and technological advance. Given the importance of education for individuals and society, its scope, constituents and configuration have long been the subject of research, studies and discussion.
 
