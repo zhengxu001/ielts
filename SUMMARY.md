@@ -6,6 +6,7 @@
         * [Question 1（全球化的利弊）](question-1.md)
     * [Education](education.md)
         * [Question 1: 教育的内容和职责](question-1-教育的内容和职责.md)
+        * [Question 2：交易方式](question-2：交易方式.md)
     * [Government](government.md)
     * [Environment](environment.md)
     * [Crime](crime.md)
