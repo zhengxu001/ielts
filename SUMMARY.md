@@ -5,6 +5,7 @@
     * [Globalization](globalization.md)
         * [Question 1](question-1.md)
     * [Education](education.md)
+        * [Question 1: 教育的内容和职责](question-1-教育的内容和职责.md)
     * [Government](government.md)
     * [Environment](environment.md)
     * [Crime](crime.md)
