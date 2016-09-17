@@ -21,6 +21,7 @@
         * [人物](人物.md)
             * [Work or Study](work-or-study.md)
             * [Teacher](teacher.md)
+            * [Visitors](visitors.md)
         * 事物
         * 事件
         * 地点
