@@ -1,7 +1,5 @@
-\#\#\#Work or Study
+### Work or Study
 
 * 
-
-
 * 
 
