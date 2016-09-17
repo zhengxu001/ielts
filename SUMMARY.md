@@ -20,6 +20,7 @@
     * [Topic 1](topic-1.md)
         * [人物](人物.md)
             * [Work or Study](work-or-study.md)
+            * [Teacher](teacher.md)
         * 事物
         * 事件
         * 地点
