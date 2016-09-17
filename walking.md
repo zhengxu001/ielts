@@ -1,4 +1,5 @@
-Do you like to walk?
+1. Do you like to walk?
 
-Would you say that your city is a good place for walking?
+2. Would you say that your city is a good place for walking?
+
 
