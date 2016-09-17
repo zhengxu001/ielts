@@ -23,6 +23,7 @@
             * [Teacher](teacher.md)
             * [Visitors](visitors.md)
             * [Family](family.md)
+            * [Celebrity](celebrity.md)
         * 事物
         * 事件
         * 地点
