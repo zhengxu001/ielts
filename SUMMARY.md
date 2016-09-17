@@ -26,6 +26,7 @@
             * [Celebrity](celebrity.md)
             * [Sing](sing.md)
             * [Walking](walking.md)
+            * [Study Efficiency](study-efficiency.md)
         * 事物
         * 事件
         * 地点
