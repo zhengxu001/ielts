@@ -9,7 +9,7 @@
         * [Question 1: 教育的内容和职责](question-1-教育的内容和职责.md)
         * [Question 2：交易方式](question-2：交易方式.md)
     * [Government](government.md)
-        * Question 1（贸易移出大城市）
+        * [Question 1（贸易移出大城市）](question-1（贸易移出大城市）.md)
     * [Environment](environment.md)
     * [Crime](crime.md)
     * [Language and Culture](language-and-culture.md)
