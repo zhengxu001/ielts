@@ -20,8 +20,8 @@
     * [Topic 1](topic-1.md)
         * [人物](人物.md)
             * [Work or Study](work-or-study.md)
-            * [Teacher](teacher.md)
             * [Visitors](visitors.md)
+            * [Teacher](teacher.md)
             * [Family](family.md)
             * [Celebrity](celebrity.md)
             * [Sing](sing.md)
@@ -30,9 +30,9 @@
         * [事物](事物.md)
             * [Books](books.md)
             * [Newspaper and magazine](newspaper-and-magazine.md)
-            * Bags
-            * Art
-            * Chocolate
+            * [Bags](bags.md)
+            * [Art](art.md)
+            * [Chocolate](chocolate.md)
             * Flowers
             * Gifts
             * Hats
@@ -53,6 +53,10 @@
             * Dance
         * [地点](地点.md)
             * [Home\/Accommodation](homeaccommodation.md)
+            * Hometown
+            * Museums
+            * Park
+            * Schools
     * [Topic2 & 3](topic2--3.md)
         * [人物](人物.md)
             * [逗你笑的人](逗你笑的人.md)
