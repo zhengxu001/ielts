@@ -20,6 +20,8 @@
     * [Technology and Media](technology-and-media.md)
     * [Women, Kids and Familis](women-kids-and-familis.md)
     * [Tourism](tourism.md)
+        * [Question 1:国际旅游的好坏](question-1国际旅游的好坏.md)
+        * Question 2：建筑的保护
 * [Speaking](speaking.md)
     * [Topic 1](topic-1.md)
         * [人物](人物.md)
