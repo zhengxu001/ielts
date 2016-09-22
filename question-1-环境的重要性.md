@@ -1,6 +1,6 @@
-&gt;&gt;&gt; （食品安全）Some people support the developments in agriculture such as factory farming andcreations of new types of fruits and vegetables, while others oppose this view. Discuss both views and give your opinion. 
+&gt;&gt;&gt; （食品安全）Some people support the developments in agriculture such as factory farming andcreations of new types of fruits and vegetables, while others oppose this view. Discuss both views and give your opinion.
 
-Some people think that the developments in agriculture, such as factory farming and creation of new types of vegetables, have brought us more benefits than problems. To what extent do you agree or disagree?
+&gt;&gt;&gt; Some people think that the developments in agriculture, such as factory farming and creation of new types of vegetables, have brought us more benefits than problems. To what extent do you agree or disagree?
 
 In modern-day society, the problems of health are increasingly serious. In the meantime, the issue of whether the developments in agriculture will bring us more benefits than troubles is becoming highly debatable. In this essay, I will discuss this issue.
 
