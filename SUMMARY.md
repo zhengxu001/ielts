@@ -2,60 +2,58 @@
 
 * [Introduction](README.md)
 * [Writting](writing.md)
-  * [Globalization](globalization.md)
-    * [Question 1（全球化的利弊）](question-1.md)
-
-  * [小作文心得](小作文心得.md)
-  * [Education](education.md)
-    * [Question 1: 教育的内容和职责](question-1-教育的内容和职责.md)
-    * [Question 2：交易方式](question-2：交易方式.md)
-
-  * [Government](government.md)
-    * [Question 1（贸易移出大城市）](question-1（贸易移出大城市）.md)
-
-  * [Environment](environment.md)
-  * [Crime](crime.md)
-  * [Language and Culture](language-and-culture.md)
-  * [Technology and Media](technology-and-media.md)
-  * [Women, Kids and Familis](women-kids-and-familis.md)
-  * [Tourism](tourism.md)
-
+    * [Globalization](globalization.md)
+        * [Question 1（全球化的利弊）](question-1.md)
+    * [小作文心得](小作文心得.md)
+    * [Education](education.md)
+        * [Question 1: 教育的内容和职责](question-1-教育的内容和职责.md)
+        * [Question 2：交易方式](question-2：交易方式.md)
+    * [Government](government.md)
+        * [Question 1（贸易移出大城市）](question-1（贸易移出大城市）.md)
+    * [Environment](environment.md)
+    * [Crime](crime.md)
+    * [Language and Culture](language-and-culture.md)
+    * [Technology and Media](technology-and-media.md)
+    * [Women, Kids and Familis](women-kids-and-familis.md)
+    * [Tourism](tourism.md)
 * [Speaking](speaking.md)
-  * [Topic 1](topic-1.md)
-    * [人物](人物.md)
-      * [Work or Study](work-or-study.md)
-      * [Teacher](teacher.md)
-      * [Visitors](visitors.md)
-      * [Family](family.md)
-      * [Celebrity](celebrity.md)
-      * [Sing](sing.md)
-      * [Walking](walking.md)
-      * [Study Efficiency](study-efficiency.md)
-
-    * [事物](事物.md)
-      * [Books](books.md)
-      * [Newspaper and magazine](newspaper-and-magazine.md)
-      * Bags
-      * Art
-      * Chocolate
-      * Flowers
-      * Gifts
-      * Hats
-      * Mobile phone
-      * Advertisement
-      * Science
-      * Emails and Letters
-
-    * 事件
-    * 地点
-
-  * [Topic2 & 3](topic2--3.md)
-    * 人物
-      * [逗你笑的人](逗你笑的人.md)
-        * [Description a person\/something that made you laugh](description-a-personsomething-that-made-you-laugh.md)
-        * [How would you definite happiness](how-would-you-definite-happiness.md)
-
-
-
-
+    * [Topic 1](topic-1.md)
+        * [人物](人物.md)
+            * [Work or Study](work-or-study.md)
+            * [Teacher](teacher.md)
+            * [Visitors](visitors.md)
+            * [Family](family.md)
+            * [Celebrity](celebrity.md)
+            * [Sing](sing.md)
+            * [Walking](walking.md)
+            * [Study Efficiency](study-efficiency.md)
+        * [事物](事物.md)
+            * [Books](books.md)
+            * [Newspaper and magazine](newspaper-and-magazine.md)
+            * Bags
+            * Art
+            * Chocolate
+            * Flowers
+            * Gifts
+            * Hats
+            * Mobile phone
+            * Advertisement
+            * Science
+            * Emails and Letters
+        * 事件
+        * 地点
+    * [Topic2 & 3](topic2--3.md)
+        * [人物](人物.md)
+            * [逗你笑的人](逗你笑的人.md)
+            * [想多了解的人](想多了解的人.md)
+            * 有创意的发明家、音乐家
+            * 尊敬的人、长辈
+            * 搬家的人
+            * 个人品质
+            * 领导
+            * 共度时光的人
+            * 一起住的人
+            * 好朋友
+            * 你喜欢的家庭
+            * 向你道歉的人
 
