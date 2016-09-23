@@ -1,5 +1,7 @@
 From: https:\/\/github.com\/fanhongtao\/IELTS. Thx: 范洪滔 &lt;fanhongtao@gmail.com&gt;
 
+Word List 01
+
 emperor \/ˈempərə\(r\)\/ n. 皇帝；君主
 
 exact\* \/ɪgˈzækt\/ a. 精确的；准确的
