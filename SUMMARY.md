@@ -87,6 +87,4 @@
             * 你喜欢的家庭
             * 向你道歉的人
 * [Words](words.md)
-    * [WordList 01](wordlist-01.md)
-    * [WordList 02](wordlist-02.md)
 
