@@ -31,11 +31,7 @@ This is a book about IELTS :\)
 
 * 查漏补缺；背诵常用单词；英语书写
 
-
-
-
-Links
+# Links
 
 * https:\/\/www.zhihu.com\/question\/19709258
-
 
