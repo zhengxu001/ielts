@@ -5,11 +5,11 @@
 
 1. What work do you do?\/Why did you choose to do that type of work?
 
-  * One of the most important reason is that I can earn much money as a Software engineer, so that I can share the economic burden of my parent's. And also I can learn much newset technolege during the work. So it's a fantastic job
+  * One of the most important reason is that I can get well paid as a Software engineer, so that I can share the economic burden of my parent's. And also I can learn much newset technolege during the work. So it's a fantastic job
 
 2. Do you miss being a student?
 
-  * Of cause. I really do miss being a student. The reason I feel like that way is because as a worker, I go to work every day and try to make a very good impression to my boss, and deal with a good relationship with my collegues, my bosses and customers. But as a students, I need not to care about all these things. I can go to libery to read the books and develop some intersting webs.
+  * Of cause. I really do miss being a student. The reason I feel like that way is because as a worker, I go to work every day and try to make a very good impression to my boss, and deal with a good relationship with my collegues, my bosses and customers. But as a students, I need not to care about all these things. I can go to libery to read the books and do what I want to do.
 
 3. Do you like your job?\/Is it very interesting?
 
