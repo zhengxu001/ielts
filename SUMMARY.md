@@ -31,6 +31,8 @@
     * [Tourism](tourism.md)
         * [Question 1:国际旅游的好坏](question-1国际旅游的好坏.md)
         * [Question 2：建筑的保护](question-2：建筑的保护.md)
+    * Others
+        * ['salary' essay](salary-essay.md)
 * [Speaking](speaking.md)
     * [Topic 1](topic-1.md)
         * [人物](人物.md)
