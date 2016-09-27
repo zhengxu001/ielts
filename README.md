@@ -37,5 +37,6 @@ This is a book about IELTS :\)
 * http:\/\/www.ielts-mentor.com\/
 * http:\/\/ieltsadvantage.com\/2015\/03\/03\/learn-english-ielts-home-free\/
 * http:\/\/soirana.github.io\/audio-recording\/
+* http:\/\/ielts-simon.com\/ielts-help-and-english-pr\/ielts-speaking\/
 
 
