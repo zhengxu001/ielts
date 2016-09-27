@@ -9,7 +9,7 @@
 
 2. Do you miss being a student?
 
-  * Of cause. I really do miss being a student. The reason I feel like that way is because as a worker, I go to work every day and try to make a very good impression to my boss, and deal with a good relationship with my collegues, my bosses and customers. But as a students, I need not to care about all these things. I can go to libery to read the books and develop some samll intersting webs.
+  * Of cause. I really do miss being a student. The reason I feel like that way is because as a worker, I go to work every day and try to make a very good impression to my boss, and deal with a good relationship with my collegues, my bosses and customers. But as a students, I need not to care about all these things. I can go to libery to read the books and develop some intersting webs.
 
 3. Do you like your job?\/Is it very interesting?
 
