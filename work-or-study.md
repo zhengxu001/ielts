@@ -5,7 +5,7 @@
 
 1. What work do you do?\/Why did you choose to do that type of work?
 
-  * One of the most important reason is that I can earn much money as a Software engineer, so that I 分担my parent's 负担. And also I can learn much newset technolege during the work. So it's a good job
+  * One of the most important reason is that I can earn much money as a Software engineer, so that I can share the economic burden of my parent's. And also I can learn much newset technolege during the work. So it's a fantastic job
 
 2. Do you miss being a student?
 
