@@ -6,6 +6,8 @@
         * [正式不正式的区别](正式不正式的区别.md)
         * [opening sentence](opening-sentence.md)
         * [letter to a tutor](letter-to-a-tutor.md)
+        * [a friend's visit](a-friends-visit.md)
+        * [timeoff work](timeoff-work.md)
     * [Education](education.md)
         * [Question 1: 教育的内容和职责](question-1-教育的内容和职责.md)
         * [Question 2：交易方式](question-2：交易方式.md)
