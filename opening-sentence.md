@@ -7,9 +7,11 @@ After writing "Dear..." it's a good idea to establish the main purpose of the le
 
 
 * Semi-formal letter \(e.g. inviting a neighbour\)
-* My wife and I would like to invite you to a dinner party at our home next Saturday evening.
+  * My wife and I would like to invite you to a dinner party at our home next Saturday evening.
+
 
 * Informal letter \(e.g. thanking a friend\)
+
 
 I hope you're well. I'm just writing to say thanks for letting me stay over at your house while I was in London last week.
 
