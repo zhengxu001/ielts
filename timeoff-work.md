@@ -8,7 +8,7 @@ The reason for this \_\_\_request\_\_\_ is that my brother is getting married. H
 
 To attend the ceremony and make the round trip from the UK, I would need at least five days off work. However, I would like to take the opportunity to do some sightseeing in Australia, and so I am hoping that you will allow me to take a full two weeks’ leave, from the 1st to the 15th of May.
 
-I have spoken to my co-workers, and it seems that Peter Jones would be best placed to cover my project commitments while I am away. I will \_\_\_\_\_\_ detailed instructions for him on my desk.
+I have spoken to my co-workers, and it seems that Peter Jones would be best placed to cover my project commitments while I am away. I will leave detailed instructions for him on my desk.
 
 I hope that my request does not cause you any inconvenience.
 
