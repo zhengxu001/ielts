@@ -12,6 +12,7 @@
         * [Thank you letter](thank-you-letter.md)
         * ['accommodation' letter](accommodation-letter.md)
         * [apology letter](apology-letter.md)
+        * [local problem letter](local-problem-letter.md)
     * [Education](education.md)
         * [Question 1: 教育的内容和职责](question-1-教育的内容和职责.md)
         * [Question 2：交易方式](question-2：交易方式.md)
