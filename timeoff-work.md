@@ -4,7 +4,7 @@ Dear Mr. Smith,
 
 I am writing to ask for some time off work next month.
 
-The reason for this \_\_\_request\_\_\_ is that my brother is getting married. His future wife is Australian, and the wedding will take \_\_\_place\_\_\_ in her home city, Melbourne. As the brother of the groom, I cannot miss such a special occasion.
+The reason for this request is that my brother is getting married. His future wife is Australian, and the wedding will take \_\_\_place\_\_\_ in her home city, Melbourne. As the brother of the groom, I cannot miss such a special occasion.
 
 To attend the ceremony and make the round trip from the UK, I would need at least five days off work. However, I would like to take the opportunity to do some sightseeing in Australia, and so I am hoping that you will allow me to take a full two weeks’ leave, from the 1st to the 15th of May.
 
