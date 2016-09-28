@@ -11,7 +11,7 @@ After writing "Dear..." it's a good idea to establish the main purpose of the le
 
 
 * Informal letter \(e.g. thanking a friend\)
+  * I hope you're well. I'm just writing to say thanks for letting me stay over at your house while I was in London last week.
 
 
-I hope you're well. I'm just writing to say thanks for letting me stay over at your house while I was in London last week.
 
