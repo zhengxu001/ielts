@@ -3,8 +3,9 @@ IELTS General Writing: the opening sentence
 After writing "Dear..." it's a good idea to establish the main purpose of the letter straight away in your opening sentence. Here are some examples:
 
 * Formal letter \(e.g. complaining to a manager\)
+  * I am writing to complain about the unacceptable state of the room I was given, and the unhelpful attitude of certain members of staff at your hotel.
 
-I am writing to complain about the unacceptable state of the room I was given, and the unhelpful attitude of certain members of staff at your hotel.
+
 
 * Semi-formal letter \(e.g. inviting a neighbour\)
 
