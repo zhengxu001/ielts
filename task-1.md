@@ -4,7 +4,7 @@ Summarize the information by selecting and reporting the main features, and make
 
 ![](/assets/4-1.jpg)
 
-The table shows the proportion of people from each household type living in poverty in Australia in the year of 1999.
+The table shows the proportion of different categories of families who were living in poverty in Australia in the year of 1999.
 
 the percentage of all households living in poverty was as high as 11% in 1999, involving 1,837,000 people, of which sole parent families and single without children families accounted for 21% and 19% respectively.
 
