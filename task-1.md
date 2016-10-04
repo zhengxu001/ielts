@@ -10,3 +10,5 @@ What is noticeable is that in 1999, the percentage of all households living in p
 
 Apparently , the other three types of families, namely, couples with children, couples without children and single aged people who lived in poverty took up 12%, 7% and 6% respectively, far lower than the percentages of the two above-mentioned types of families.
 
+Overall the table suggests that households of single adults and those with children were morelikely to be living in **poverty** than those consisting of couples.
+
