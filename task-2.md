@@ -1,4 +1,4 @@
-_**Compare the advantages and disadvantages of three of the following as media for communicating information. State which you consider to be the most effective.**_
+**_Compare the advantages and disadvantages of three of the following as media for communicating information. State which you consider to be the most effective._**
 
 * Comics
 
