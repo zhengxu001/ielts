@@ -44,6 +44,11 @@
         * [Question 2：建筑的保护](question-2：建筑的保护.md)
     * Others
         * ['salary' essay](salary-essay.md)
+    * 真题写作
+        * [剑4](剑4.md)
+            * [Part 1](part.md)
+                * Task 1
+                * [Task 2](task-2.md)
 * [Speaking](speaking.md)
     * [Topic 1](topic-1.md)
         * [人物](人物.md)
