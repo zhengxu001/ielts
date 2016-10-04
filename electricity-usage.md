@@ -1,4 +1,4 @@
-_**the graph below shows the demand for electricity in England during typical days in winter and summer. The pie chart shows how electricity is used in an average English home. Summarize the information by selecting and reporting the main features, and make comparisons where relevant.**_
+**_the graph below shows the demand for electricity in England during typical days in winter and summer. The pie chart shows how electricity is used in an average English home. Summarize the information by selecting and reporting the main features, and make comparisons where relevant._**
 
 ![](/assets/4-2.png)
 
@@ -8,5 +8,5 @@ In the first chart, the demanding units of electricity in winter always almost d
 
 In terms of the pie chart, more than half of the demanding\(52.5%\) for electricity is occupied by heating rooms and water, while the amount of electricity used in ovens, kettles or washing machines is just17.5%. However, lighting, TV, radio and vacuum cleaners, food mixers, electric tools share the same proportion 15%.
 
-Overall, it is clear that the demanding units of electricity is much higher in winter, and heating rooms and warming water are the major uses for electricity in the whole year.
+Overall, it is clear that the demanding units of electricity is much higher in winter. Besides, heating rooms and warming water are the major uses for electricity in the whole year.
 
