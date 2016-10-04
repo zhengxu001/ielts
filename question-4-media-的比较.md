@@ -1,4 +1,4 @@
-_**Compare the advantages and disadvantages of three of the following as media for communicating information. State which you consider to be the most effective. **_
+**_Compare the advantages and disadvantages of three of the following as media for communicating information. State which you consider to be the most effective. _**
 
 * Comics
 
@@ -19,5 +19,5 @@ Books have been accompanying human beings for the longest time. Ever since typog
 
 Radios and television are products of industrialization and informatization. They both can be used for spreading latest information even some instant messages. Radios are portable for individuals carrying around, while television is able to provide information satisfying people both ears and eyes. What is more, with the development of modern technique, an increasingly number of portable televisions have been invented and put into production. It seems that television is the most effective way for communicating information. Nevertheless, because the information, which is conveyed via radios and television, draw more attention on currently evens, and often cannot analysis a topic deeply, people still need books to add essential supplement.
 
-In conclusion, books, radios and television each has its own advantages and disadvantages, and has an irreplaceable place in human history. But we cannot doubt it that with the rapid development of modern technique, it is most likely for scientist to invent a comprehensive media tool which can absolutely meet various demands for communicating information.
+In coclusion, television has the advantages which radio and books are lack of. Also, it doesn’t have the disadvantages like theirs. So, from my perspective, television would be the most effective media type fro communicating informations
 
