@@ -49,7 +49,7 @@
                 * [Task 1: Poverty in Australia](task-1.md)
                 * [Task 2: media 的比较](task-2.md)
             * Part 2
-                * Task 1
+                * [Task 1](task-1.md)
                 * Task 2
 * [Speaking](speaking.md)
     * [Topic 1](topic-1.md)
