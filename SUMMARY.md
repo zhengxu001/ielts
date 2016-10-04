@@ -35,7 +35,6 @@
         * [Question 1：现代网络和通讯](question-1：现代网络和通讯.md)
         * [Question 2：建设图书馆还是网络](bquestion-2：建设图书馆还是网络.md)
         * [Question 3: 多媒体](question-3-多媒体.md)
-        * [Question 4: media 的比较](question-4-media-的比较.md)
     * [Women, Kids and Familis](women-kids-and-familis.md)
         * [Question 1: 男女平等](question-1-男女平等.md)
         * [Question 2：老龄化](老龄化.md)
@@ -48,7 +47,7 @@
         * [剑4](剑4.md)
             * [Part 1](part.md)
                 * Task 1
-                * [Task 2](task-2.md)
+                * [Task 2: media 的比较](task-2.md)
 * [Speaking](speaking.md)
     * [Topic 1](topic-1.md)
         * [人物](人物.md)
