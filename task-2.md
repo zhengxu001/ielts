@@ -1,4 +1,4 @@
-**_Compare the advantages and disadvantages of three of the following as media for communicating information. State which you consider to be the most effective._**
+_**Compare the advantages and disadvantages of three of the following as media for communicating information. State which you consider to be the most effective.**_
 
 * Comics
 
@@ -13,7 +13,7 @@
 * Theatre
 
 
-Books, radios and television are considered to be among the most popular media for communicating information. It is unquestionable that all of these media each has an irreplaceable place in human history, and they have their own advantages and disadvantages.
+Books, radios and television are considered to be among the most popular media types for communicating information. It is unquestionable that all of these media each has an irreplaceable place in human history, and they have their own advantages and disadvantages.
 
 Books have been accompanying human beings for the longest time. Books nurture generation after generation by providing mental food accumulated for centuries. However, there are several weak points about books. For instance, it is not convenient for people on the go carrying piles of books. Besides, with the fast development of modern society, the update for books is far from meeting the social demands for the latest information.
 
