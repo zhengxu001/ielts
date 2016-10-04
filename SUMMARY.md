@@ -50,6 +50,7 @@
                 * [Task 2: media 的比较](task-2.md)
             * [Part 2](part-2.md)
                 * [Electricity Usage](electricity-usage.md)
+                * [Happiness](happiness.md)
 * [Speaking](speaking.md)
     * [Topic 1](topic-1.md)
         * [人物](人物.md)
