@@ -16,7 +16,7 @@ This is a book about IELTS :\)
 * 准备口语答题卡（背诵答案）
 
 
-### 10月1号--10月7号
+### 10月1号--10月9号
 
 * 背作文
 
@@ -38,5 +38,4 @@ This is a book about IELTS :\)
 * http:\/\/ieltsadvantage.com\/2015\/03\/03\/learn-english-ielts-home-free\/
 * http:\/\/soirana.github.io\/audio-recording\/
 * http:\/\/ielts-simon.com\/ielts-help-and-english-pr\/ielts-speaking\/
-
 
