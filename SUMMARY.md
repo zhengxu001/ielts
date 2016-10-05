@@ -51,6 +51,8 @@
             * [Part 2](part-2.md)
                 * [Electricity Usage](electricity-usage.md)
                 * [Happiness](happiness.md)
+            * Part 3
+                * [School Qualifications](school-qualifications.md)
             * Part 4
                 * [UK travel](uk-travel.md)
                 * [Students Bad behaviour](students-bad-behaviour.md)
