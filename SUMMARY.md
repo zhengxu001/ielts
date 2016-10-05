@@ -51,6 +51,8 @@
             * [Part 2](part-2.md)
                 * [Electricity Usage](electricity-usage.md)
                 * [Happiness](happiness.md)
+            * Part 4
+                * [UK travel](uk-travel.md)
 * [Speaking](speaking.md)
     * [Topic 1](topic-1.md)
         * [人物](人物.md)
