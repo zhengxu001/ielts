@@ -53,6 +53,7 @@
                 * [Happiness](happiness.md)
             * Part 3
                 * [School Qualifications](school-qualifications.md)
+                * [Artists Freedom](artists-freedom.md)
             * Part 4
                 * [UK travel](uk-travel.md)
                 * [Students Bad behaviour](students-bad-behaviour.md)
