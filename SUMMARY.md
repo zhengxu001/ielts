@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 * [Writting](writing.md)
     * [小作文心得](小作文心得.md)
-        * [正式不正式的区别](正式不正式的区别.md)
     * [Education](education.md)
         * [Question 1: 教育的内容和职责](question-1-教育的内容和职责.md)
         * [Question 2：交易方式](question-2：交易方式.md)
