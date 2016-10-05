@@ -1,6 +1,6 @@
 **In many countries schools have severe problems with student behavior. What do you think are the causes of this? What solutions can be suggested?**
 
-Violence，violation of rules, skipping classes now are not uncommon in schools of many countries. The root causes of these abnormal behaviors are the negative influence of media, parenting and schooling.
+Violence，violation of rules, skipping classes now are not uncommon in schools of many countries. A variety of factors attribute to bad behavior of students, but in my opinion, the root causes of these abnormal behaviors are the negative influence of media, parenting and schooling.
 
 Nowadays, media, such as TV show and films, are saturated with violence and pornography, which can affect students negatively. Students, who are too young to distinguish between right and wrong, tend to imitate what they have seen on TV, resulting in bullying or violence in school. Moreover, in present-day society, as most parents of students lead stressful lives, parental neglect may cause serious problems of children’s mental health. Violating school rules purposefuly is becoming one way for youngsters to attract their parents’ attention.
 
